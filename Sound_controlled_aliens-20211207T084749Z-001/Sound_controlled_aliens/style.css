@@ -1,0 +1,42 @@
+body {
+    font-family: 'Luxurious Script';
+    background-color: darkkhaki;
+}
+
+.heading {
+    background-color: white;
+    color: red;
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+.heading p {
+    color:gray;
+    letter-spacing: 3px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+.main_div h3,h4 {
+    font-family: roboto;
+}
+
+.footer_div {
+    position: fixed;
+    color: gray;
+    text-shadow: 5px 5px 5px rgb(194, 190, 190);
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    font-family: roboto;
+    bottom: 0%;
+    line-height: 3;
+}
